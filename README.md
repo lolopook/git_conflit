@@ -1,4 +1,4 @@
-###Procédure pour causer un conflit de fusion
+### Procédure pour causer un conflit de fusion
 
 Étapes à suivre, une par une:
 
